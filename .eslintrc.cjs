@@ -26,5 +26,6 @@ module.exports = {
     'react/react-in-jsx-scope': 'off',
     '@typescript-eslint/space-before-function-paren': 'off',
     'import/no-absolute-path': 'off',
+    '@typescript-eslint/no-unsafe-argument': 'off',
   },
 };
